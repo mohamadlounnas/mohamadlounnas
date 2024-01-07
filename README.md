@@ -2,7 +2,7 @@
 <h5 align="center">
   <a href="https://github.com/mohamadlounnas/mohamadlounnas/raw/main/cv.pdf" target="blank">view my CV?</a>
 </h5>
-<h3 align="center">Full stack developer / Graphic designer</h3>
+<h3 align="center">Flutter developer / Game player xD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadlounnas&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadlounnas" /> </p>
 
